@@ -2,7 +2,7 @@
 
 TEAM = Tiger Events and Meetings
 
-RIT Spring 2021
+RIT Fall 2021
 
 Course: Designing the User Experience
 
